@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **more C# knowledge, seeking expertise and communication!**
 
-- 👨‍💻 All of my projects are available at [https://github.com/psalazar5](https://github.com/psalazar5)
+- 👨‍💻 All of my projects are available at [https://github.com/psalazar5](https://github.com/psalazar5?tab=repositories)
 
 - 💬 Ask me about **C# and .Net Framework**
 
